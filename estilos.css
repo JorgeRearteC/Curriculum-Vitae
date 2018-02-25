@@ -1,0 +1,41 @@
+th {
+	font-style: italic;
+	font-weight: normal;
+}
+
+/*.titulo {
+	background-color: #347B98;
+	color: #FFFFFF;
+}
+
+div {
+	background-color: #E4F1F6;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 10px;
+}*/
+
+img {
+	padding-top: 10px;
+	margin-right: 50px;
+	float:left;
+	width:140px;
+	vertical-align: middle;
+}
+
+footer {
+
+}
+
+
+.titulo {
+	background-color: #85A2AD;
+	color: #FFFFFF;
+}
+
+div {
+	background-color: #EAEFF1;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 10px;
+}
