@@ -18,13 +18,16 @@ div {
 img {
 	padding-top: 10px;
 	margin-right: 50px;
-	float:left;
-	width:140px;
-	vertical-align: middle;
+	/*float:left;*/
+	/*width: 200px;
+	height: 200px;*/
+	/*vertical-align: middle;*/
 }
 
-footer {
-
+.footer {
+	background-color: #85A2AD;
+	color: #FFFFFF;
+	text-align: center;
 }
 
 
